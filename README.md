@@ -43,7 +43,7 @@ We chose to take a deep dive into the artist The Weeknd and his single 'Blinding
 
 
 ### Output
-All created CSV files are saved in output_Data and all visuals are saved in output_plots
+All created CSV files are saved in output_data and all visuals are saved in output_plots
 
 #### References
 ###### https://developer.spotify.com/documentation/web-api/
